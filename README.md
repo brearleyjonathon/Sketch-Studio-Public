@@ -1,6 +1,6 @@
 # Sketch Studio
 
-A local tool for cleaning hand-drawn sketches and rendering them as AI-generated architectural or design images using [Replicate](https://replicate.com)'s Seedream models. Runs entirely on your machine — no cloud account needed beyond the API key.
+A tool for cleaning hand-drawn sketches and rendering them as AI-generated architectural or design images using [Replicate](https://replicate.com)'s Seedream models.
 
 <img width="1159" height="646" alt="image" src="https://github.com/user-attachments/assets/a0ceb7d6-2cbf-4c95-9c5d-0cf35a15228a" />
 
