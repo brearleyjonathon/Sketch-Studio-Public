@@ -76,7 +76,7 @@ Then open `http://127.0.0.1:8741/sketch_styler.html` in your browser.
 
 ## Reference images (Seedream 5 Lite)
 
-Drop images into the `img_ref/` folder — they'll appear as a selectable gallery in the UI. Checked images are prepended to the generation input to guide style and composition. The `img_ref/` folder ships with 10 sample reference images to get you started.
+Drop images into the `img_ref/` folder — they'll appear as a selectable gallery in the UI. Checked images are prepended to the generation input to guide style and composition. The `img_ref/` folder ships with 14 sample reference images to get you started.
 
 ---
 
