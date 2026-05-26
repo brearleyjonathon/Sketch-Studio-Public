@@ -1,0 +1,3 @@
+# Paste your Anthropic API key here (https://console.anthropic.com/keys)
+# Only needed for the "Polish prompt" feature.
+# No quotes, just the key on one line.

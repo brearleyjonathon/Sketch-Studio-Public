@@ -1,0 +1,2 @@
+# Paste your Replicate API key here (https://replicate.com/account/api-tokens)
+# No quotes, just the key on one line.
