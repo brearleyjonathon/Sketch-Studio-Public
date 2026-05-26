@@ -2,6 +2,8 @@
 
 A local tool for cleaning hand-drawn sketches and rendering them as AI-generated architectural or design images using [Replicate](https://replicate.com)'s Seedream models. Runs entirely on your machine — no cloud account needed beyond the API key.
 
+<img width="1229" height="659" alt="image" src="https://github.com/user-attachments/assets/b4277a30-a782-4f2e-a3fc-3cdaa2728481" />
+
 ---
 
 ## What it does
